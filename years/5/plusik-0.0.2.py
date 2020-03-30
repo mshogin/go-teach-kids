@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 # shell:
-# $ python plus-0.0.2.py     : wow
-# $ sadik-0.0.2.py : fun
+# $ python plusik-0.0.2.py     : uhti
 # --
 # First type:
 print 1 + 1
